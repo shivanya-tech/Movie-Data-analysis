@@ -32,20 +32,16 @@ This project explores Netflix datasets to uncover insights about content, trends
 
 * **Python** (NumPy, Pandas, Matplotlib, Seaborn)
 * **Jupyter Notebook**
+* 
 
-## 🚀 How to Run
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/your-username/netflix-data-analysis.git
-   ```
-2. Install dependencies:
+1. Install dependencies:
 
    ```bash
    pip install numpy pandas matplotlib seaborn
    ```
-3. Open the notebook:
+
+  
+2. Open the notebook:
 
    ```bash
    jupyter notebook movie_Data_Analysis.ipynb
